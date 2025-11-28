@@ -11,7 +11,7 @@ This implementation uses JavaScript and HTML to simulate and visualize the motio
 2. Open `double_pendulum.html` in a web browser.  
 3. The simulation start automatically
 
-You can interact with the simulation (e.g., adjust initial angles, maybe lengths or masses — depending on what the JS code supports) and visually observe how the pendulum moves and evolves over time.
+You can interact with the simulation (e.g., adjust initial angles, colors, day/night) and visually observe how the pendulum moves and evolves over time.
 
 
 ## What’s inside  
