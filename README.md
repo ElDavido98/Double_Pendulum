@@ -1,7 +1,7 @@
 # Double-Pendulum
 
 ## Overview  
-This repository implements a simulation of a **double pendulum** — a classic physics system where one pendulum is attached to the end of another. As with all double-pendulums, the system can exhibit chaotic behavior: tiny differences in initial conditions may lead to dramatically different trajectories. :contentReference[oaicite:0]{index=0}  
+This repository implements a simulation of a **double pendulum** — a classic physics system where one pendulum is attached to the end of another. As with all double-pendulums, the system can exhibit chaotic behavior: tiny differences in initial conditions may lead to dramatically different trajectories.
 
 This implementation uses JavaScript and HTML to simulate and visualize the motion in a web browser.
 
@@ -20,8 +20,8 @@ You can interact with the simulation (e.g., adjust initial angles, colors, day/n
 
 
 ## What this demonstrates  
-- The double pendulum dynamics: two rigid massless rods, point masses at their ends, under gravity (no friction), forming a system governed by coupled non-linear ODEs. :contentReference[oaicite:1]{index=1}  
-- Sensitivity to initial conditions: small changes in starting angles, velocities, etc., may lead to radically different motion paths — a hallmark of deterministic chaos. :contentReference[oaicite:2]{index=2}  
+- The double pendulum dynamics: two rigid massless rods, point masses at their ends, under gravity (no friction), forming a system governed by coupled non-linear ODEs.
+- Sensitivity to initial conditions: small changes in starting angles, velocities, etc., may lead to radically different motion paths — a hallmark of deterministic chaos.
 - Real-time visualization / animation of the motion, helpful for intuition and teaching/learning dynamics.   
 
 
